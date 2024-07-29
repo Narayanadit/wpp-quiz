@@ -11,5 +11,3 @@ function reverseString(str) {
 console.log(reverseString("hello"));   // "olleh"
 console.log(reverseString("world"));   // "dlrow"
 console.log(reverseString("JavaScript")); // "tpircSavaJ"
-console.log(reverseString("!dlroW ,olleH")); // "Hello, World!"
-console.log(reverseString("12345"));   // "54321"
