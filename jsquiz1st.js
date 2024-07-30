@@ -1,3 +1,6 @@
+// write javascript program to print the current window content.
+
+
 function displayDateTime() {
     const now = new Date();
 
